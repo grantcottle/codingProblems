@@ -19,6 +19,5 @@ def quick_sort(array)
   
   end
 
-var= [9,3,7,4,5,1,10] 
-puts(var)
-puts(quick_sort(var))
+arr = [20,50,3,12,5,3,9,6,22,40]
+quick_sort(arr)
